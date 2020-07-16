@@ -21,9 +21,14 @@
   "author": "Roberto Alcantara",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.0",
+    "celebrate": "^12.1.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "mongoose": "^5.9.20",
+    "insomnia": "0.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.24",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
